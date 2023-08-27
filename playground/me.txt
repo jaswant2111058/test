@@ -1,5 +1,0 @@
-{{#user}}
-Name: Jaswant Kushwaha
-Skills: HTML, CSS, JS, React.js,Node Js,Express Js,MERN Stack,
-Email: Jaswant2111058@akgec.ac.in
-{{/user}}
